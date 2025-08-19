@@ -1,2 +1,2 @@
-                                                                       ## React Native Mobile App Integrate with Tally
+                                        ## React Native Mobile App Integrate with Tally
                                     
